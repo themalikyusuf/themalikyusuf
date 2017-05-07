@@ -48,18 +48,12 @@ medium: themalikyusuf
 email: themalikyusuf@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    abdulmalik:
+        name: Abdulmalik Yusuf
+        bio: Short bio like the deep short one
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/malik.jpg
+        twitter: themalikyusuf
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
