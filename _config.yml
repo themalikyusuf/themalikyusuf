@@ -13,7 +13,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/abdulmalik.jpg
+picture: assets/images/malik.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -21,8 +21,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/0B3scabWgwLNFc0tlZVFkU1ZUYXM/view?usp=sharing
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: https://themalikyusuf.github.io
 
 permalink: /:title/
 
