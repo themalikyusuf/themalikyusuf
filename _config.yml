@@ -13,7 +13,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/james.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -45,6 +45,7 @@ linkedin: abdulmalik-yusuf-b7980154
 github: themalikyusuf
 # stackoverflow: 7044681/mystackoverflow
 medium: themalikyusuf
+
 email: themalikyusuf@gmail.com
 
 authors:
