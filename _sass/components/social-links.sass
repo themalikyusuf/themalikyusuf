@@ -19,6 +19,7 @@
             white-space: nowrap
 
         &:before
+            content: attr(data-title)
             display: inline-block
             position: absolute
             bottom: -34px
@@ -57,3 +58,4 @@
 
     > .icon
         transition: all ease-in-out .2s
+
