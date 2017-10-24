@@ -34,7 +34,7 @@ disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-twitter: themalikyusuf
+# twitter: themalikyusuf
 # instagram: myinstagram
 linkedin: abdulmalik-yusuf-b7980154
 # youtube: myyoutube
